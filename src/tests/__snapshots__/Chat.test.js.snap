@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chat snapshot test 1`] = `
+<div>
+  <div
+    className="messages-wrapper"
+  >
+    No messages
+  </div>
+  <br />
+  <form>
+    <div>
+      You have 
+      250
+       symbols left.
+      <input
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+    <button
+      onClick={[Function]}
+    >
+      Send
+    </button>
+  </form>
+</div>
+`;
